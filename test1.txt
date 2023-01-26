@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 toto
 toto est le meilleur
 tata est partie
 titi et toto
 tata est partie
+=======
+tata
+est partie
+>>>>>>> parent of cf91896... Modification test1.txt
