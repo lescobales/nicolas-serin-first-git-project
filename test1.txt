@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of dcc8110... Modification test1.txt
 toto
 toto est le meilleur
 tata est partie
